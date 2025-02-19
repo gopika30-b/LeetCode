@@ -1,7 +1,4 @@
 class Solution {
-    int[] rd = { -1, 1, 0, 0 };
-    int[] cd = { 0, 0, -1, 1 };
-
     public int numIslands(char[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
@@ -18,6 +15,8 @@ class Solution {
     }
 
     public void bfs(char[][] grid, int n, int m, int r, int c) {
+        int[] rd = { -1, 1, 0, 0 };
+        int[] cd = { 0, 0, -1, 1 };
         Queue<Pair> queue = new LinkedList<>();
         queue.add(new Pair(r, c));
         while (!queue.isEmpty()) {

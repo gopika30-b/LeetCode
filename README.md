@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gopika30-b/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gopika30-b/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/gopika30-b/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/gopika30-b/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gopika30-b/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/gopika30-b/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gopika30-b/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gopika30-b/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gopika30-b/LeetCode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/gopika30-b/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gopika30-b/LeetCode/tree/master/0200-number-of-islands) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gopika30-b/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/gopika30-b/LeetCode/tree/master/0189-rotate-array) |
 ## Graph
 |  |

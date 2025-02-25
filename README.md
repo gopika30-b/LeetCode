@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gopika30-b/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/gopika30-b/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/gopika30-b/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/gopika30-b/LeetCode/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gopika30-b/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/gopika30-b/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gopika30-b/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/gopika30-b/LeetCode/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gopika30-b/LeetCode/tree/master/0054-spiral-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/gopika30-b/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

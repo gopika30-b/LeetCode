@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gopika30-b/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gopika30-b/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gopika30-b/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/gopika30-b/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/gopika30-b/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/gopika30-b/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gopika30-b/LeetCode/tree/master/0054-spiral-matrix) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gopika30-b/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/gopika30-b/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/gopika30-b/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gopika30-b/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gopika30-b/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/gopika30-b/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/gopika30-b/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gopika30-b/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gopika30-b/LeetCode/tree/master/0073-set-matrix-zeroes) |

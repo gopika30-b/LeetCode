@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/gopika30-b/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/gopika30-b/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/gopika30-b/LeetCode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/gopika30-b/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gopika30-b/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/gopika30-b/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/gopika30-b/LeetCode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/gopika30-b/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/gopika30-b/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/gopika30-b/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/gopika30-b/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/gopika30-b/LeetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/gopika30-b/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Graph
 |  |
 | ------- |
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/gopika30-b/LeetCode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/gopika30-b/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

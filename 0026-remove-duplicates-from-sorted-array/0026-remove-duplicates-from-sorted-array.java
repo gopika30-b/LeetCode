@@ -1,15 +1,11 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int k = 0;
-        int count = 0;
-        Set<Integer> set = new HashSet<>();
-        for(int i=0; i<nums.length; i++){
-            if(!set.contains(nums[i])){
-                set.add(nums[i]);
+        int k = 1;
+        for(int i=1; i<nums.length; i++){
+            if(nums[i]!=nums[i-1]){
                 nums[k++] = nums[i];
-                count++;
             }
         }
-        return count;
+        return k;
     }
 }

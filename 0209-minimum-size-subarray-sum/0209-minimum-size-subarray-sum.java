@@ -6,7 +6,7 @@ class Solution {
         for(int right=0; right<nums.length; right++){
             sum += nums[right];
             while(sum >= target){
-                if(right-left+1 < minLen) minLen = right-left+1;
+                minLen = Math.min(minLen, right-left+1);
                 sum -= nums[left];
                 left++;
             }

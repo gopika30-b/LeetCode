@@ -5,14 +5,12 @@ class Solution {
         for(int k=1; k<strs.length; k++){
             String str2 = strs[k];
             int i=0;
-            int j=0;
             int n = Math.min(str1.length(), str2.length());
             int count =0;
-            while(i<n && j<n){
-                if(str1.charAt(i)== str2.charAt(j)){
+            while(i<n ){
+                if(str1.charAt(i)== str2.charAt(i)){
                     count++;
                     i++;
-                    j++;
                 }else{
                     break;
                 }

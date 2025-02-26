@@ -4,8 +4,8 @@ class Solution {
         int n = citations.length;
         for(int i=n-1; i>=0; i--){
             if(citations[i]>=n-i) continue;
-            return n-i-1;
+            else return n-i-1;
         }
-        return n;
+        return n;   
     }
 }

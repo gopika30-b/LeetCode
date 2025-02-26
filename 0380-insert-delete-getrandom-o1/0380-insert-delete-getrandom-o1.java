@@ -16,11 +16,11 @@ class RandomizedSet {
     
     public boolean remove(int val) {
         if(!map.containsKey(val)) return false;
-        int ind = map.get(val);
-        if(ind != lst.size()-1){
+        int pos = map.get(val);
+        if(pos != lst.size()-1){
             int lastE = lst.get(lst.size()-1);
-            lst.set(ind, lastE);
-            map.put(lastE, ind);
+            map.put(lastE, pos);
+            lst.set(pos, lastE);
         }
         lst.remove(lst.size()-1);
         map.remove(val);
@@ -28,8 +28,8 @@ class RandomizedSet {
     }
     
     public int getRandom() {
-        int rind = random.nextInt(lst.size());
-        return lst.get(rind);
+        int randI = random.nextInt(lst.size());
+        return lst.get(randI);
     }
 }
 

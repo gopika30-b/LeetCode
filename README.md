@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gopika30-b/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/gopika30-b/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/gopika30-b/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/gopika30-b/LeetCode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gopika30-b/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gopika30-b/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/gopika30-b/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gopika30-b/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/gopika30-b/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/gopika30-b/LeetCode/tree/master/0274-h-index) |
 ## Counting
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/gopika30-b/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/gopika30-b/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gopika30-b/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/gopika30-b/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/gopika30-b/LeetCode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |

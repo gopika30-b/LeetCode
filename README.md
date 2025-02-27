@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/gopika30-b/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/gopika30-b/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/gopika30-b/LeetCode/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gopika30-b/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gopika30-b/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/gopika30-b/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gopika30-b/LeetCode/tree/master/0189-rotate-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gopika30-b/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gopika30-b/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gopika30-b/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gopika30-b/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/gopika30-b/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/gopika30-b/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Dynamic Programming
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gopika30-b/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gopika30-b/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gopika30-b/LeetCode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gopika30-b/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/gopika30-b/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gopika30-b/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Graph

@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/gopika30-b/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/gopika30-b/LeetCode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gopika30-b/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gopika30-b/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gopika30-b/LeetCode/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/gopika30-b/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
